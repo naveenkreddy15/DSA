@@ -12,6 +12,7 @@ def moveNegativeElements(arr):
 
     return arr
 
+
 if __name__ == "__main__":
     print("Program to move the negative elements to the end of the array")
     print(moveNegativeElements([1,-2,3,1,-2,-5,1]))
