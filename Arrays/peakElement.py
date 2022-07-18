@@ -14,4 +14,4 @@ def peakElement(arr):
     return arr[start]
 
 if __name__ == "__main__":
-    print("peak element in an array is ",peakElement([5,6,7,8,9,1,2,3]))
+    print("peak element in an array is ",peakElement([5,6,7,8,9,1,2,3,4]))
