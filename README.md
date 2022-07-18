@@ -1,4 +1,4 @@
-## _BackGround_
+# _BackGround_
 This repo is created with an intention to improve the problem solving skills
 
 ### _Below are different algorithm techniques to be applied based on the problems_
